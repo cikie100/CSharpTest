@@ -1,0 +1,6 @@
+C:\Users\ciki3\source\repos\CSharpTest\bin\Debug\netstandard2.0\CSharpTest.dll.config
+C:\Users\ciki3\source\repos\CSharpTest\bin\Debug\netstandard2.0\CSharpTest.deps.json
+C:\Users\ciki3\source\repos\CSharpTest\bin\Debug\netstandard2.0\CSharpTest.dll
+C:\Users\ciki3\source\repos\CSharpTest\obj\Debug\netstandard2.0\CSharpTest.csprojAssemblyReference.cache
+C:\Users\ciki3\source\repos\CSharpTest\obj\Debug\netstandard2.0\CSharpTest.AssemblyInfoInputs.cache
+C:\Users\ciki3\source\repos\CSharpTest\obj\Debug\netstandard2.0\CSharpTest.AssemblyInfo.cs
